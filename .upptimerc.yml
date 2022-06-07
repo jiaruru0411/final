@@ -15,6 +15,10 @@ sites:
     url: https://twitter.com/
   - name: yahoo
     url:https://tw.yahoo.com/
+    
+     - name: Wrong url
+    url: https://tw3145cfsg.koj.com
+    
  
 
 status-website:
