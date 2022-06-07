@@ -16,9 +16,6 @@ sites:
   - name: yahoo
     url:https://tw.yahoo.com/
  
- - name: Wrong url
-    url: https://tw3145cfsg.koj.com
-    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
